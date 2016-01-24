@@ -1,5 +1,6 @@
 <?
-$root = 'http://jurajhilje.com/';
+$root = '/';
+// $root = 'http://jurajhilje.com/';
 // $root = 'http://jurajhilje-com.dev/public/';
 $hash = '70e12eb';
 ?>
